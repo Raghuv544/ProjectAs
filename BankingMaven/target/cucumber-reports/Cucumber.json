@@ -1,0 +1,22 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: Raghu"
+      }
+    ],
+    "line": 3,
+    "name": "Primus Bank Features",
+    "description": "",
+    "id": "primus-bank-features",
+    "keyword": "Feature",
+    "uri": "Banking.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@PrimusBankFeature"
+      }
+    ]
+  }
+]
